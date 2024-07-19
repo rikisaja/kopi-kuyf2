@@ -1,0 +1,26 @@
+{
+    "Tanpa Foto": [
+        {
+            "nama": "App 1",
+            "linkBuy": "#",
+            "linkPreview": "assets/img/features-1.jpg",
+            "foto": "assets/img/features-1.jpg"
+        }
+    ],
+    "Pakai Foto": [
+        {
+            "nama": "App 2",
+            "linkBuy": "#",
+            "linkPreview": "assets/img/features-1.jpg",
+            "foto": "assets/img/features-2.jpg"
+        }
+    ],
+    "Custom": [
+        {
+            "nama": "App 3",
+            "linkBuy": "#",
+            "linkPreview": "assets/img/features-1.jpg",
+            "foto": "assets/img/features-3.jpg"
+        }
+    ]
+}
